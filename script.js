@@ -1,4 +1,4 @@
-const textOptions = ["I am a Web developer", "I am a coder", "I am an engineer"];
+const textOptions = ["I am a Web developer", "I am a Frontend developer", "I am an engineer"];
     let currentIndex = 0;
 
     // Get the element by its id
